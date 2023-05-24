@@ -9,7 +9,7 @@ import secret # Remove this line
 gcpkey = secret.gcpkey # Put your GCP api key here
 
 3. Configure the config.json file
-- voice_name : Voice name of 
+- voice_name : Voice name of TTS
 - inputFilePath : Expressions file
 - outputFolderFormat : Output folder | {folderIndex} increase each time
 - outputFileFormat : Output file | {fileIndex} : index of the expression in the input file | {expression} : the expression
