@@ -1,0 +1,8 @@
+{
+    "voice_name": "ko-KR-Neural2-C",
+    "inputFilePath": "input.txt",
+    "outputFolderFormat": "{folderIndex} - output",
+    "outputFileFormat": "{fileIndex} - {expression}",
+    "startingOutputFileIndex": 0,
+    "startingOutputFolderIndex": 11
+}
